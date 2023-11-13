@@ -1,0 +1,7 @@
+C:\Users\pawnol\source\repos\RandomNamePicker\bin\Debug\RandomNamePicker.exe.config
+C:\Users\pawnol\source\repos\RandomNamePicker\bin\Debug\RandomNamePicker.exe
+C:\Users\pawnol\source\repos\RandomNamePicker\bin\Debug\RandomNamePicker.pdb
+C:\Users\pawnol\source\repos\RandomNamePicker\obj\Debug\RandomNamePicker.csproj.AssemblyReference.cache
+C:\Users\pawnol\source\repos\RandomNamePicker\obj\Debug\RandomNamePicker.csproj.CoreCompileInputs.cache
+C:\Users\pawnol\source\repos\RandomNamePicker\obj\Debug\RandomNamePicker.exe
+C:\Users\pawnol\source\repos\RandomNamePicker\obj\Debug\RandomNamePicker.pdb

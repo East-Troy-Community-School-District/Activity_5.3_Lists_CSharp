@@ -1,0 +1,10 @@
+\\et-fileserver\staff\pawnol\Desktop\MeanMedianModeLists\bin\Debug\MeanMedianModeLists.exe.config
+\\et-fileserver\staff\pawnol\Desktop\MeanMedianModeLists\bin\Debug\MeanMedianModeLists.exe
+\\et-fileserver\staff\pawnol\Desktop\MeanMedianModeLists\bin\Debug\MeanMedianModeLists.pdb
+\\et-fileserver\staff\pawnol\Desktop\MeanMedianModeLists\obj\Debug\MeanMedianModeLists.csproj.AssemblyReference.cache
+\\et-fileserver\staff\pawnol\Desktop\MeanMedianModeLists\obj\Debug\MeanMedianModeLists.MeanMedianModeForm.resources
+\\et-fileserver\staff\pawnol\Desktop\MeanMedianModeLists\obj\Debug\MeanMedianModeLists.Properties.Resources.resources
+\\et-fileserver\staff\pawnol\Desktop\MeanMedianModeLists\obj\Debug\MeanMedianModeLists.csproj.GenerateResource.cache
+\\et-fileserver\staff\pawnol\Desktop\MeanMedianModeLists\obj\Debug\MeanMedianModeLists.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\MeanMedianModeLists\obj\Debug\MeanMedianModeLists.exe
+\\et-fileserver\staff\pawnol\Desktop\MeanMedianModeLists\obj\Debug\MeanMedianModeLists.pdb

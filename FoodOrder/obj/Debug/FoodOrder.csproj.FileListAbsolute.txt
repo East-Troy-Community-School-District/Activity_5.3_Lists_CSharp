@@ -1,0 +1,7 @@
+\\et-fileserver\staff\pawnol\Desktop\FoodOrder\bin\Debug\FoodOrder.exe.config
+\\et-fileserver\staff\pawnol\Desktop\FoodOrder\bin\Debug\FoodOrder.exe
+\\et-fileserver\staff\pawnol\Desktop\FoodOrder\bin\Debug\FoodOrder.pdb
+\\et-fileserver\staff\pawnol\Desktop\FoodOrder\obj\Debug\FoodOrder.csproj.AssemblyReference.cache
+\\et-fileserver\staff\pawnol\Desktop\FoodOrder\obj\Debug\FoodOrder.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\FoodOrder\obj\Debug\FoodOrder.exe
+\\et-fileserver\staff\pawnol\Desktop\FoodOrder\obj\Debug\FoodOrder.pdb
