@@ -1,19 +1,18 @@
 ﻿/*
  * Random Name Picker
  * Pawelski
- * 11/13/2023
- * Developing Desktop Applications
+ * 2/5/2025
  * 
  * Instructions:
- * What line of code creates the list named names?
- * Could we write this program using an array? How would
- * the program look different?
- * What line of code adds the entered name into the list?
- * Where does the name get added to the list?
- * If 5 names are entered, what indexes are valid for the list?
- * If you don't know how many names are in the list, what code
- * should you use to find the number of names in the list? How
- * would you find the last index in this case?
+ * Answer the following questions.
+ * 1.   What line of code creates the list named names?
+ * 2.   Could we write this program using an array? How would the program look different?
+ * 3.   What line of code adds the entered name into the list?
+ * 4.   Where does the name get added to the list?
+ * 5.   If 5 names are entered, what indexes are valid for the list?
+ * 6.   If you don't know how many names are in the list, what code
+ *      should you use to find the number of names in the list? How
+ *      would you find the last index in this case?
  */
 
 using System;

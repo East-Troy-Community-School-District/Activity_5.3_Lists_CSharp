@@ -1,18 +1,23 @@
 ﻿/*
  * Food Order
  * Pawelski
- * 11/13/2023
- * Developing Desktop Applications
+ * 2/5/2025
  * 
  * Instructions:
- * How did Mr. Pawelski use functions to organize his code?
- * This program uses parallel lists. What are parallel lists?
- * How did Mr. Pawelski remove items from the items list? What
- * about the prices list? How do you check whether an element
- * exists in a list? How do you find the index of an element in
- * a list? How many times did Mr. Pawelski traverse a list or lists?
- * Where are the traversals? Did Mr. Pawelski make the program
- * completely fault-tolerant?
+ * 1.   Add a breakpoint to line  and run the program in debugging mode.
+ *      Try entering a variety of inputs and step through the program to
+ *      see how it works.
+ * 2.   This program uses parallel lists. What are parallel lists?
+ * 3.   What does this line of code do?
+ *      items.Add(Console.ReadLine().ToLower());
+ * 
+ * 4.   What does this line of code do?
+ *      if (items.Contains(item))
+ * 
+ * 5.   What does these lines of code do?
+ *      int index = items.IndexOf(item);
+        items.Remove(item);
+        prices.RemoveAt(index);
  */
 
 using System;
